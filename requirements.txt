@@ -1,0 +1,13 @@
+streamlit
+selenium
+pandas
+beautifulsoup4
+requests
+urllib3
+certifi
+websocket-client
+trio
+trio-websocket
+webdriver_manager
+
+
